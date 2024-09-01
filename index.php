@@ -1,6 +1,6 @@
 <?php
 
-echo "PHP test page for CICD root ";
+echo "PHP test page for jenslave ";
 
 
 
