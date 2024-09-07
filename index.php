@@ -1,6 +1,6 @@
 <?php
 
-echo "PHP test page for jenslave ";
+echo "PHP project test for new Jenkins server update 1";
 
 
 
