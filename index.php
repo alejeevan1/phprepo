@@ -1,6 +1,6 @@
 <?php
 
-echo "PHP project for open shift";
+echo "PHP project for open shift V2";
 
 
 
